@@ -1,0 +1,3 @@
+C:/project/c++/snake_gm/build/CMakeFiles/ALL_BUILD.dir
+C:/project/c++/snake_gm/build/CMakeFiles/ZERO_CHECK.dir
+C:/project/c++/snake_gm/build/src/CMakeFiles/SnakeGM.dir

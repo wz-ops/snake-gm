@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+C:/project/c++/snake_gm/CMakeLists.txt
+C:/project/c++/snake_gm/build/CMakeFiles/3.22.0/CMakeCCompiler.cmake
+C:/project/c++/snake_gm/build/CMakeFiles/3.22.0/CMakeCXXCompiler.cmake
+C:/project/c++/snake_gm/build/CMakeFiles/3.22.0/CMakeRCCompiler.cmake
+C:/project/c++/snake_gm/build/CMakeFiles/3.22.0/CMakeSystem.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/CMakeCInformation.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/CMakeCXXInformation.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/CMakeGenericSystem.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/CMakeRCInformation.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/Compiler/MSVC-C.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/Compiler/MSVC-CXX.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/Platform/Windows-MSVC-C.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/Platform/Windows-MSVC.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/Platform/Windows.cmake
+C:/zwwwwww/cmake/share/cmake-3.22/Modules/Platform/WindowsPaths.cmake

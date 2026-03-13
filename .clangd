@@ -1,0 +1,5 @@
+CompileFlags:
+  Add: 
+    - "-IC:/project/c++/snake_gm/third_party/raylib-msvc/include"
+    - "-IC:/project/c++/snake_gm/src"
+    - "-std=c++17"
